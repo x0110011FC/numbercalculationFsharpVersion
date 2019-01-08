@@ -1,0 +1,17 @@
+C:\Users\Aleks\source\repos\CalculateSeriesOfNumbers\NUnitTestProject1\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Aleks\source\repos\CalculateSeriesOfNumbers\NUnitTestProject1\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Aleks\source\repos\CalculateSeriesOfNumbers\NUnitTestProject1\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\Aleks\source\repos\CalculateSeriesOfNumbers\NUnitTestProject1\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\Aleks\source\repos\CalculateSeriesOfNumbers\NUnitTestProject1\bin\Debug\netcoreapp2.1\CalculateSeriesOfNumbersTest.deps.json
+C:\Users\Aleks\source\repos\CalculateSeriesOfNumbers\NUnitTestProject1\bin\Debug\netcoreapp2.1\CalculateSeriesOfNumbersTest.runtimeconfig.json
+C:\Users\Aleks\source\repos\CalculateSeriesOfNumbers\NUnitTestProject1\bin\Debug\netcoreapp2.1\CalculateSeriesOfNumbersTest.runtimeconfig.dev.json
+C:\Users\Aleks\source\repos\CalculateSeriesOfNumbers\NUnitTestProject1\bin\Debug\netcoreapp2.1\CalculateSeriesOfNumbersTest.dll
+C:\Users\Aleks\source\repos\CalculateSeriesOfNumbers\NUnitTestProject1\bin\Debug\netcoreapp2.1\CalculateSeriesOfNumbersTest.pdb
+C:\Users\Aleks\source\repos\CalculateSeriesOfNumbers\NUnitTestProject1\bin\Debug\netcoreapp2.1\CalculateSeriesOfNumbers.dll
+C:\Users\Aleks\source\repos\CalculateSeriesOfNumbers\NUnitTestProject1\bin\Debug\netcoreapp2.1\CalculateSeriesOfNumbers.pdb
+C:\Users\Aleks\source\repos\CalculateSeriesOfNumbers\NUnitTestProject1\obj\Debug\netcoreapp2.1\CalculateSeriesOfNumbersTest.fsprojAssemblyReference.cache
+C:\Users\Aleks\source\repos\CalculateSeriesOfNumbers\NUnitTestProject1\obj\Debug\netcoreapp2.1\CalculateSeriesOfNumbersTest.AssemblyInfoInputs.cache
+C:\Users\Aleks\source\repos\CalculateSeriesOfNumbers\NUnitTestProject1\obj\Debug\netcoreapp2.1\CalculateSeriesOfNumbersTest.AssemblyInfo.fs
+C:\Users\Aleks\source\repos\CalculateSeriesOfNumbers\NUnitTestProject1\obj\Debug\netcoreapp2.1\CalculateSeriesOfNumbersTest.fsproj.CopyComplete
+C:\Users\Aleks\source\repos\CalculateSeriesOfNumbers\NUnitTestProject1\obj\Debug\netcoreapp2.1\CalculateSeriesOfNumbersTest.dll
+C:\Users\Aleks\source\repos\CalculateSeriesOfNumbers\NUnitTestProject1\obj\Debug\netcoreapp2.1\CalculateSeriesOfNumbersTest.pdb

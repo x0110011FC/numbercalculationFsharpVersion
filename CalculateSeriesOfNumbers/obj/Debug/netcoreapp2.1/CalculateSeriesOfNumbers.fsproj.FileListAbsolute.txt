@@ -1,0 +1,10 @@
+c:\users\aleks\source\repos\CalculateSeriesOfNumbers\CalculateSeriesOfNumbers\bin\Debug\netcoreapp2.1\CalculateSeriesOfNumbers.deps.json
+c:\users\aleks\source\repos\CalculateSeriesOfNumbers\CalculateSeriesOfNumbers\bin\Debug\netcoreapp2.1\CalculateSeriesOfNumbers.runtimeconfig.json
+c:\users\aleks\source\repos\CalculateSeriesOfNumbers\CalculateSeriesOfNumbers\bin\Debug\netcoreapp2.1\CalculateSeriesOfNumbers.runtimeconfig.dev.json
+c:\users\aleks\source\repos\CalculateSeriesOfNumbers\CalculateSeriesOfNumbers\bin\Debug\netcoreapp2.1\CalculateSeriesOfNumbers.dll
+c:\users\aleks\source\repos\CalculateSeriesOfNumbers\CalculateSeriesOfNumbers\bin\Debug\netcoreapp2.1\CalculateSeriesOfNumbers.pdb
+c:\users\aleks\source\repos\CalculateSeriesOfNumbers\CalculateSeriesOfNumbers\obj\Debug\netcoreapp2.1\CalculateSeriesOfNumbers.fsprojAssemblyReference.cache
+c:\users\aleks\source\repos\CalculateSeriesOfNumbers\CalculateSeriesOfNumbers\obj\Debug\netcoreapp2.1\CalculateSeriesOfNumbers.AssemblyInfoInputs.cache
+c:\users\aleks\source\repos\CalculateSeriesOfNumbers\CalculateSeriesOfNumbers\obj\Debug\netcoreapp2.1\CalculateSeriesOfNumbers.AssemblyInfo.fs
+c:\users\aleks\source\repos\CalculateSeriesOfNumbers\CalculateSeriesOfNumbers\obj\Debug\netcoreapp2.1\CalculateSeriesOfNumbers.dll
+c:\users\aleks\source\repos\CalculateSeriesOfNumbers\CalculateSeriesOfNumbers\obj\Debug\netcoreapp2.1\CalculateSeriesOfNumbers.pdb
