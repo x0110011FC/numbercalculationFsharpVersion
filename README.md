@@ -1,7 +1,5 @@
 # numbercalculationFsharpVersion
 
-<p>Clone the project</p>
-</br>
-<p>Open it in Visual Studio</p>
-</br>
-<p>Run</p>
+<p><b>Clone the project</b></p>
+<p><b>Open it in Visual Studio</b></p>
+<p><b>Run</b></p>
